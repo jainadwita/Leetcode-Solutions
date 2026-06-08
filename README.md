@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/jainadwita/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/jainadwita/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0412-fizz-buzz](https://github.com/jainadwita/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/jainadwita/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
