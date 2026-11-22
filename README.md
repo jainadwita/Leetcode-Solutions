@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/jainadwita/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0412-fizz-buzz](https://github.com/jainadwita/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/jainadwita/LeetCode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/jainadwita/LeetCode-Solutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 ## Simulation
 |  |
 | ------- |
