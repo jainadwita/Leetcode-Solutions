@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/jainadwita/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/jainadwita/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1352-product-of-the-last-k-numbers](https://github.com/jainadwita/LeetCode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
+| [3360-stone-removal-game](https://github.com/jainadwita/LeetCode-Solutions/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/jainadwita/LeetCode-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 ## String
 |  |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/jainadwita/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
+| [3360-stone-removal-game](https://github.com/jainadwita/LeetCode-Solutions/tree/master/3360-stone-removal-game) |
 ## Two Pointers
 |  |
 | ------- |
